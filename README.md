@@ -7,7 +7,7 @@
 
 Execute no terminal do Git para baixar este projeto:
 
-| >> *git clone https://github.com/pchfe/users-filter-project.git*
+| >> *git clone https://github.com/pchfe/Angular-Filtro-de-Usuarios.git*
 
 # 🛠️ Abrir e rodar o projeto
 
